@@ -19,6 +19,7 @@ The body of the POST request must be a JSON object formatted as follows:
   "github_username": "Your Github username here",
   "short_greeting": "Short text here",
   "your_email": "Your Email",
+  "name" : "name",
   "random_number": {
     "number": 13,
     "reason": "Describe how and why you sent this random number"
