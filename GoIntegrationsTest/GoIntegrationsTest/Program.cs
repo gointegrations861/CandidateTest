@@ -24,7 +24,7 @@ namespace GoIntegrationsTest
                     ""number"": 33.23,
                     ""reason"": ""I've come up with a 32.33~... repeating of course, percentage... chance of survival.""
                     },
-                    ""is_test"": true
+                    ""is_test"": false
             }";
 
             // Add JSON file content as request body.
