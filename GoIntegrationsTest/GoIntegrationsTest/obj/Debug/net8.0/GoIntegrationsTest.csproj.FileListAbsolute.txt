@@ -1,0 +1,17 @@
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\bin\Debug\net8.0\GoIntegrationsTest.exe
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\bin\Debug\net8.0\GoIntegrationsTest.deps.json
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\bin\Debug\net8.0\GoIntegrationsTest.runtimeconfig.json
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\bin\Debug\net8.0\GoIntegrationsTest.dll
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\bin\Debug\net8.0\GoIntegrationsTest.pdb
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\bin\Debug\net8.0\RestSharp.dll
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.csproj.AssemblyReference.cache
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.GeneratedMSBuildEditorConfig.editorconfig
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.AssemblyInfoInputs.cache
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.AssemblyInfo.cs
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.csproj.CoreCompileInputs.cache
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegr.E26C9FF2.Up2Date
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.dll
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\refint\GoIntegrationsTest.dll
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.pdb
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\GoIntegrationsTest.genruntimeconfig.cache
+J:\PersonalProjects\GoTest\GoIntegrationsTest\GoIntegrationsTest\obj\Debug\net8.0\ref\GoIntegrationsTest.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I932hbR0AvKygRoWK+7Fip8EOgeQsp4hOik8XPCTUSA3Y/H6pqSa5BqcXkHdPlEOzS4CWKUL/X54Gyp3wNr0iw==",
+  "success": true,
+  "projectFilePath": "J:\\PersonalProjects\\GoTest\\GoIntegrationsTest\\GoIntegrationsTest\\GoIntegrationsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PSVMain\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\PSVMain\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\PSVMain\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
